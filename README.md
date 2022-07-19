@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fabiosmorinigo.github.io/productCardComponent/)
+- Live Site URL: [https://fabiosmorinigo.github.io/productCardComponent/](https://fabiosmorinigo.github.io/productCardComponent/)
 
 
 ### Built with
